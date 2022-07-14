@@ -1,4 +1,4 @@
-// drop down nav
+// drop down nav11
 var banner = document.getElementById("hiretual-banner");
 if (banner) {
     var img = new Image();
