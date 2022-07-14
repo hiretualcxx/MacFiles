@@ -1,4 +1,4 @@
-// drop down nav
+// drop down navsfsdfsgsfdgsdf4456
 var banner = document.getElementById("hiretual-banner");
 if (banner) {
     var img = new Image();
@@ -14,7 +14,7 @@ if (banner) {
 </ul>				</div> <!-- #et-secondary-menu -->
     </div> <!-- .container -->
 </div>`
-hgjkjhhgjkgkjgh
+
 var nav = document.getElementById("hiretual-nav");
     
 if(nav){
